@@ -1,7 +1,8 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << "I'm Rakshith Vaishnavi Dogra" << std::endl;
+    cout << "Rakshith Vaishnavi Dogra" << endl;
     return 0;
 }
